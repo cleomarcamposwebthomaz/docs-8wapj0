@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-dj5xpv.marvelelectrical.co.nz/sitemap.xml
